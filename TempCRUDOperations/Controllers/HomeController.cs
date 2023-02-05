@@ -29,5 +29,6 @@ namespace TempCRUDOperations.Controllers
         public ActionResult Nothing(){
           return View();
         }
+        public ACtionResult Checker(){return "";}
     }
 }
