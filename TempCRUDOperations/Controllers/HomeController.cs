@@ -31,7 +31,7 @@ namespace TempCRUDOperations.Controllers
         }
       
         public ACtionResult Checker(){return "";}
-        public ActionResult One(){return "";}
+        public ActionResult One(){return View();}
         public ActionResult Two(){return "";}
     }
 }
