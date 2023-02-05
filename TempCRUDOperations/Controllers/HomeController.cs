@@ -26,5 +26,8 @@ namespace TempCRUDOperations.Controllers
 
             return View();
         }
+        public ActionResult Nothing(){
+          return View();
+        }
     }
 }
