@@ -106,5 +106,6 @@ namespace TempCRUDOperations.Controllers
             return RedirectToAction("Index");
 
         }
+		public ActionResult ChangeNothing(){return "";}
     }
 }
